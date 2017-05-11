@@ -1,0 +1,6 @@
+Comandos 
+
+
+git ls-files - Mostra informações sobre arquivos no índice e na árvore de trabalho
+
+git status - avalia estado dos arquivos no WORKING AREA e no INDICE.
